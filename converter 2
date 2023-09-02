@@ -1,0 +1,9 @@
+<html> 
+<head> 
+</head> 
+<body>
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ifcmarkets.com/css/widget/currency_converter.css"/><script type="text/javascript">var lang_cc='ru';var hname_cc="www.ifcmarkets.com";var vi=document.createElement('script');vi.type='text/javascript';vi.async = true;vi.src = 'https://www.ifcmarkets.com/js/currcalc/currency_converter.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vi, s);</script><div id="ifc_widgetcurrconv"></div><div id="ifc_nedcurrconv" class="ifc_nedcurrconv"><a href="https://www.ifcmarkets.com/ru/informers" target="_blank" rel="nofollow">Provided</a> by IFC Markets</div>
+
+</body> 
+</html>
